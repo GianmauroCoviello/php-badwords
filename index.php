@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
+    <form action="">
+        <input type="text" name="nome" placeholder="nome"><br>
+        <textarea name="paragrafo" placeholder="messaggio"></textarea>
+    </form>
     
 </body>
 </html>
